@@ -43,4 +43,4 @@ async def map(ctx, region):
 
 
 
-bot.run("MTEyNzYwMzgyODE5NjM4ODk4Ng.GrlgVq.v11SJAP_yZKptebycZPDV36tPIxLXfHfxIyg5s")
+bot.run("")
